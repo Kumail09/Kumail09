@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kumail
+- 👀 I’m interested in Cloud Server Architechure
+- - 🌱 I’m currently learning AWS
+- 💞️ I’m looking to collaborate on GIS Project
+- 📫 How to reach me: kumail0691@gmail.com
